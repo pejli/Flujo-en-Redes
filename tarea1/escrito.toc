@@ -1,0 +1,7 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}grafo simple no dirigido ac\IeC {\'\i }clico}{1}% 
+\contentsline {paragraph}{grafo simple no dirigido ac\IeC {\'\i }clico}{1}% 
+\contentsline {paragraph}{grafo simple no dirigido c\IeC {\'\i }clico}{1}% 
+\contentsline {paragraph}{grafo simple no dirigido reflexivo}{1}% 
+\contentsline {paragraph}{grafo simple dirigido ac\IeC {\'\i }clico}{1}% 
+\contentsline {paragraph}{grafo simple dirigido c\IeC {\'\i }clico}{1}% 
